@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoX_Oyunu", "XoX_Oyunu\XoX_Oyunu.csproj", "{7CE92DFF-8942-4190-80F8-E146DB4ACDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE92DFF-8942-4190-80F8-E146DB4ACDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE92DFF-8942-4190-80F8-E146DB4ACDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE92DFF-8942-4190-80F8-E146DB4ACDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE92DFF-8942-4190-80F8-E146DB4ACDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5748B38F-E7A0-4DD1-AA67-A886F9F06157}
+	EndGlobalSection
+EndGlobal
